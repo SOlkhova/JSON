@@ -1,1 +1,13 @@
-
+{ "Summary": "User_not_logged_in_Twitter", 
+ "Project": "Multiplex",
+ "Test_Case_ID": "C_003",
+ "Component": "Authorization_Twitter",
+ "Severity": "Minor",
+ "Priority": "Medium",
+ "Status": "New",
+ "Author": "Olkhova_Svitlana",
+ "OS_Browser": "OS_Windows_10_Pro_20H2_OS_19042_1526_Chrome_98.0.4758.102",
+ "Step_to_reproduse": "Open_https://multiplex.ua/ru/", "Click": "Licorice Pizza", "Click": "Authorization_Twitter",
+ "Actual result": "Server_error_500",
+"Expected result": "Successful_authorization",
+ "Attachment": "Add_file" }
